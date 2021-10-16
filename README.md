@@ -1,0 +1,1 @@
+Support Vector Machine implementation with scipy.optimize for linear, polynomial and RBF kernels.
